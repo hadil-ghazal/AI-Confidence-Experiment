@@ -7,13 +7,21 @@ from scipy import stats
 #loading the file 
 df = pd.read_csv("data/processed/responses_cleaned.csv")
 
+
+# Fixing the duplicate ID issue from the merged file
+df = df.rename(columns={df.columns[0]: "timestamp", df.columns[1]: "participant_id"})
+df = df.loc[:, ~df.columns.duplicated()]  # Drop any duplicate columns
+
+
+
 #issue in the participant ID using step to list columns for code fix
 print("Columns in file:")
 print(df.columns.tolist())
 
+#removed section post particiapant ID restructuring
 #noticed that participant Id is too long so step is to shorten naming convention
-orig_id_col = "Please create and enter your unique Participant ID using 2 letters + 4 digits (ex HG1997).\nUse this exact same ID in both quizzes."
-df = df.rename(columns={df.columns[0]: "participant_id"})
+#orig_id_col = "Please create and enter your unique Participant ID using 2 letters + 4 digits (ex HG1997).\nUse this exact same ID in both quizzes."
+#df = df.rename(columns={df.columns[0]: "participant_id"})
 
 
 #check name fix
