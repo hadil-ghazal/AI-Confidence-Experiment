@@ -27,38 +27,27 @@ if len(confidence_cols) == 0:
     print("No confidence data")
     exit()
 
-
+# IF YOU REACH THIS STEP THEN WE HAVE CONFIDENCE DATA IN THE DATA
 
 # calculating the average confidence
-    df["mean_confidence"] = df[confidence_cols].mean(axis=1)
+df["mean_confidence"] = df[confidence_cols].mean(axis=1)
 
 # group by person + AI category
-    grouped = (
-        df.groupby(["participant_id", "AI_Indicator"])
-          .agg(mean_confidence=("mean_confidence", "mean"))
-          .reset_index()
-    )
+grouped = (
+    df.groupby(["participant_id", "AI_Indicator"])
+      .agg(mean_confidence=("mean_confidence", "mean"))
+      .reset_index()
+)
 
 
 #For each person, will be comparing non AI confidence with AI confidence
 
-    comparison_df = grouped.pivot(
-        index="participant_id",
-        columns="AI_Indicator",
-        values="mean_confidence"
-    ).dropna()
+comparison_df = grouped.pivot(
+    index="participant_id",
+    columns="AI_Indicator",
+    values="mean_confidence"
+).dropna()
 
 print("\nConfidence comparison (first 5 rows):")
 print(comparison_df.head())
-
-
-#comparing the mean confidence
-
-if "AI" in comparison_df.columns and "No AI" in comparison_df.columns:
-    ai_conf = comparison_df["AI"].mean()
-    noai_conf = comparison_df["No AI"].mean()
-    print("\nAverage confidence with AI:   ", round(ai_conf, 2))
-    print("Average confidence without AI:", round(noai_conf, 2))
-else:
-    print(" Could not find AI or No AI in confidence data.")
 
