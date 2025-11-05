@@ -13,9 +13,13 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 #loading data
 df = pd.read_csv(DATA_PATH)
 
-
+#commenting out for V2 - I restructured the columns so need to match new structure
 # rename first col to participant_id (the same as the other scripts steps)
-df = df.rename(columns={df.columns[0]: "participant_id"})
+#df = df.rename(columns={df.columns[0]: "participant_id"})
+df = df.rename(columns={df.columns[0]: "timestamp", df.columns[1]: "participant_id"})
+
+
+
 #df["AI_Indicator"] = df["AI_Indicator"].astype(str).strip()
 df["AI_Indicator"] = df["AI_Indicator"].astype(str).str.strip()
 
