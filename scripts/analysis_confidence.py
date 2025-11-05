@@ -8,7 +8,15 @@ df = pd.read_csv("data/processed/responses_cleaned.csv")
 
 #ensuring the rename of the first column to be participant id
 
-df = df.rename(columns={df.columns[0]: "participant_id"})
+#commented out for V2, reformatting post ID realignment
+#df = df.rename(columns={df.columns[0]: "participant_id"})
+
+#New formatting version
+df = df.rename(columns={df.columns[0]: "timestamp", df.columns[1]: "participant_id"})
+
+#Removing accidental duplicate participant_id column
+df = df.loc[:, ~df.columns.duplicated()]
+
 
 # cleaning up the AI labels to ensure spaces dont lead to errors
 
