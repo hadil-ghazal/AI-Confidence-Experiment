@@ -1,0 +1,73 @@
+"Please create and enter your unique Participant ID using 2 letters + 4 digits (e.g., HG1997).
+Use this exact same ID in both quizzes.",AI_Indicator,source_form,Q1_Correctness_Indicator,Q2_Correctness_Indicator,Q3_Correctness_Indicator,Q4_Correctness_Indicator,Q5_Correctness_Indicator,Q6_Correctness_Indicator,Q7_Correctness_Indicator,Q8_Correctness_Indicator,total_correct,avg_accuracy
+GF1234,AI ,A_with_AI,1,1,1,0,0,0,0,1,4,0.5
+JA2000,AI ,A_with_AI,1,1,1,0,0,0,1,1,5,0.625
+YA2013,AI ,A_with_AI,0,0,1,1,1,1,1,1,6,0.75
+NS1234,AI ,A_with_AI,1,1,1,0,1,1,1,1,7,0.875
+MK9876,AI ,A_with_AI,1,1,1,0,0,0,0,1,4,0.5
+AW2013,AI ,A_with_AI,1,1,1,0,0,1,0,0,4,0.5
+MC6767,AI ,A_with_AI,1,0,1,0,0,0,0,0,2,0.25
+LU6767,AI ,A_with_AI,0,0,0,0,1,1,0,1,3,0.375
+am6767,AI ,A_with_AI,1,1,1,0,0,0,0,1,4,0.5
+JY1511,AI ,A_with_AI,1,1,1,0,0,0,0,1,4,0.5
+GG1234,AI ,A_with_AI,1,1,1,0,0,1,1,1,6,0.75
+BZ1988,AI ,A_with_AI,0,0,1,1,0,1,1,0,4,0.5
+nl9533,AI ,A_with_AI,1,1,1,0,1,1,1,0,6,0.75
+SJ1125,AI ,A_with_AI,1,1,1,1,1,0,0,1,6,0.75
+LE1969,AI ,A_with_AI,0,1,1,0,0,0,1,1,4,0.5
+PL9034,AI ,A_with_AI,0,1,1,1,1,1,1,0,6,0.75
+TJ1995,AI ,A_with_AI,1,0,1,0,0,0,0,1,3,0.375
+JP2001,AI ,A_with_AI,1,1,1,0,0,0,0,1,4,0.5
+LA2000,AI ,A_with_AI,0,0,1,0,0,1,1,0,3,0.375
+Sh1973,No AI,A_no_AI,1,1,0,0,1,0,1,1,5,0.625
+HG1995,No AI,A_no_AI,1,1,1,1,0,0,1,0,5,0.625
+SA1456,No AI,A_no_AI,1,0,1,0,0,1,1,1,5,0.625
+Sw1992,No AI,A_no_AI,1,1,1,0,1,1,1,1,7,0.875
+AG1997,No AI,A_no_AI,1,0,1,0,0,1,1,0,4,0.5
+Ld1109,No AI,A_no_AI,0,0,1,0,0,1,0,1,3,0.375
+YP6752,No AI,A_no_AI,0,1,1,0,0,1,1,0,4,0.5
+IK1125,No AI,A_no_AI,1,1,1,1,1,1,0,0,6,0.75
+xm9362,No AI,A_no_AI,1,1,1,0,1,1,1,1,7,0.875
+WW8888,No AI,A_no_AI,1,1,1,1,0,0,1,1,6,0.75
+AG1999,No AI,A_no_AI,0,1,1,0,1,0,1,0,4,0.5
+SK6464,No AI,A_no_AI,1,1,1,0,0,1,1,1,6,0.75
+NO1999,No AI,A_no_AI,0,1,1,1,0,0,1,1,5,0.625
+GG1965,No AI,A_no_AI,0,1,1,0,1,0,1,0,4,0.5
+JP1999,No AI,A_no_AI,0,1,1,1,1,0,1,1,6,0.75
+YT7758,No AI,A_no_AI,0,1,1,0,1,1,0,1,5,0.625
+UD9356,No AI,A_no_AI,0,0,1,0,0,1,0,0,2,0.25
+HG1995,AI,B_with_AI,1,1,0,1,0,1,1,0,5,0.625
+Sw1992,AI,B_with_AI,0,1,0,1,0,1,1,1,5,0.625
+AG1997,AI,B_with_AI,0,1,0,1,0,1,0,0,3,0.375
+YP6752,AI,B_with_AI,0,1,0,1,0,1,1,0,4,0.5
+Sh1973,AI,B_with_AI,0,1,0,1,0,0,0,0,2,0.25
+IK1125,AI,B_with_AI,1,1,0,1,0,1,1,0,5,0.625
+xm3962,AI,B_with_AI,1,1,1,1,0,1,1,1,7,0.875
+WW8888,AI,B_with_AI,1,1,1,1,0,1,1,0,6,0.75
+AG1999,AI,B_with_AI,1,1,0,1,0,1,0,0,4,0.5
+SK6464,AI,B_with_AI,0,1,0,1,0,1,1,1,5,0.625
+NO1999,AI,B_with_AI,0,1,0,1,0,0,0,0,2,0.25
+GG1965,AI,B_with_AI,0,0,0,0,0,1,1,1,3,0.375
+JP1999,AI,B_with_AI,0,1,0,1,0,1,0,1,4,0.5
+UD9356,AI,B_with_AI,0,1,0,1,0,1,1,0,4,0.5
+YT7758,AI,B_with_AI,1,1,0,1,0,1,0,0,4,0.5
+LD1109,AI,B_with_AI,1,1,0,1,0,1,0,0,4,0.5
+SA1456,AI,B_with_AI,1,1,0,1,0,1,0,0,4,0.5
+GF1234,No AI,B_no_AI,0,1,0,1,0,1,0,0,3,0.375
+JA2000,No AI,B_no_AI,0,1,1,1,0,1,1,0,5,0.625
+YA2013,No AI,B_no_AI,1,0,0,1,0,1,0,0,3,0.375
+AW2013,No AI,B_no_AI,0,1,0,0,0,0,1,0,2,0.25
+MK9876,No AI,B_no_AI,1,1,0,0,0,0,1,0,3,0.375
+am6767,No AI,B_no_AI,1,0,1,1,0,1,1,0,5,0.625
+LU6767,No AI,B_no_AI,0,1,0,0,0,0,0,1,2,0.25
+MC6767,No AI,B_no_AI,0,0,0,0,1,0,1,0,2,0.25
+JY1511,No AI,B_no_AI,0,1,1,0,0,0,1,1,4,0.5
+GG1234,No AI,B_no_AI,0,0,0,1,0,1,0,0,2,0.25
+BZ1988,No AI,B_no_AI,0,0,0,0,0,1,0,0,1,0.125
+nl9533,No AI,B_no_AI,1,1,1,1,1,0,1,1,7,0.875
+SJ1125,No AI,B_no_AI,1,1,0,1,0,1,1,1,6,0.75
+LE1969,No AI,B_no_AI,0,1,0,0,0,1,1,1,4,0.5
+PL9034,No AI,B_no_AI,0,1,0,1,0,1,0,0,3,0.375
+TJ1995,No AI,B_no_AI,0,0,0,1,0,1,0,0,2,0.25
+JP2001,No AI,B_no_AI,1,1,0,0,0,0,0,1,3,0.375
+LA2000,No AI,B_no_AI,0,1,0,0,0,1,0,1,3,0.375

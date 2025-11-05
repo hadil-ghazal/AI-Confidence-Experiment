@@ -1,0 +1,36 @@
+Timestamp,"Please create and enter your unique Participant ID using 2 letters + 4 digits (e.g., HG1997).
+Use this exact same ID in both quizzes.","
+Which year was the first iPhone released? ","How confident are you in your answer for “Which year was the first iPhone released?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)
+",Q1_Correctness_Indicator,"Who painted “The Starry Night”?
+","How confident are you in your answer for “Who painted The Starry Night?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q2_Correctness_Indicator,What is the capital of Australia?,"How confident are you in your answer for “What is the capital of Australia?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q3_Correctness_Indicator,"Which element has the chemical symbol Fe?
+","How confident are you in your answer for “Which element has the chemical symbol Fe?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q4_Correctness_Indicator,"Which country consumes the most coffee per capita?
+","How confident are you in your answer for “Which country consumes the most coffee per capita?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q5_Correctness_Indicator,"Who wrote the novel 1984?
+","How confident are you in your answer for “Who wrote the novel 1984?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q6_Correctness_Indicator,"Which country invented paper?
+","How confident are you in your answer for “Which country invented paper?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q7_Correctness_Indicator,"In which country is Mount Kilimanjaro located?
+","How confident are you in your answer for “In which country is Mount Kilimanjaro located?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q8_Correctness_Indicator,AI_Indicator
+11/3/2025 11:24:15,GF1234,2009,7,0,Vincent van Gogh,10,1,Sydney,7,0,Iron,10,1,USA,7,0,George Orwell,10,1,Egypt,6,0,Uganda,5,0,No AI
+11/3/2025 14:45:11,JA2000,2009,2,0,Vincent van Gogh,8,1,Canberra,7,1,Iron,10,1,USA,5,0,George Orwell,3,1,China,7,1,Ethiopia,3,0,No AI
+11/3/2025 14:54:32,YA2013,2007,6,1,Pablo Picasso,7,0,Sydney,8,0,Iron,5,1,Columbia,5,0,George Orwell,0,1,Greece,10,0,Ethiopia,8,0,No AI
+11/3/2025 15:22:11,AW2013,2005,5,0,Vincent van Gogh,10,1,Sydney,4,0,Francium,1,0,Columbia,3,0,Ernest Hemingway,1,0,China,10,1,Ethiopia,0,0,No AI
+11/3/2025 15:24:37,MK9876,2007,6,1,Vincent van Gogh,9,1,Sydney,6,0,Flourine,2,0,USA,6,0,Ernest Hemingway,0,0,China,7,1,Ethiopia,5,0,No AI
+11/3/2025 15:25:41,am6767,2007,5,1,Pablo Picasso,0,0,Canberra,8,1,Iron,2,1,USA,5,0,George Orwell,1,1,China,9,1,Ethiopia,0,0,No AI
+11/3/2025 15:26:03,LU6767,2005,4,0,Vincent van Gogh,1,1,Sydney,6,0,Flourine,1,0,USA,7,0,Ernest Hemingway,0,0,Egypt,6,0,Tanzania,4,1,No AI
+11/3/2025 15:31:56,MC6767,2005,1,0,Claude Monet,1,0,Perth,0,0,Flourine,2,0,Finland,1,1,Aldous Huxley,0,0,China,2,1,Uganda,0,0,No AI
+11/3/2025 15:59:14,JY1511,2005,1,0,Vincent van Gogh,10,1,Canberra,10,1,Francium,1,0,USA,1,0,J.D. Salinger,0,0,China,0,1,Tanzania,0,1,No AI
+11/3/2025 16:46:59,GG1234,2005,7,0,Pablo Picasso,1,0,Sydney,10,0,Iron,10,1,USA,5,0,George Orwell,0,1,Egypt,7,0,Ethiopia,1,0,No AI
+11/3/2025 16:53:31,BZ1988,2005,9,0,Pablo Picasso,10,0,Sydney,9,0,Francium,6,0,Columbia,6,0,George Orwell,5,1,Greece,6,0,Ethiopia,10,0,No AI
+11/3/2025 17:18:27,nl9533,2007,10,1,Vincent van Gogh,10,1,Canberra,10,1,Iron,10,1,Finland,10,1,J.D. Salinger,4,0,China,10,1,Tanzania,10,1,No AI
+11/3/2025 18:03:12,SJ1125,2007,5,1,Vincent van Gogh,10,1,Sydney,10,0,Iron,10,1,USA,10,0,George Orwell,10,1,China,10,1,Tanzania,10,1,No AI
+11/3/2025 18:57:50,LE1969,2005,9,0,Vincent van Gogh,10,1,Sydney,10,0,Flourine,2,0,Columbia,6,0,George Orwell,1,1,China,5,1,Tanzania,10,1,No AI
+11/3/2025 4:05:34,PL9034,2005,4,0,Vincent van Gogh,9,1,Sydney,4,0,Iron,7,1,USA,6,0,George Orwell,3,1,India,3,0,Kenya,2,0,No AI
+11/3/2025 4:18:27,TJ1995,2010,3,0,Pablo Picasso,4,0,Sydney,6,0,Iron,6,1,Italy,7,0,George Orwell,7,1,India,4,0,Ethiopia,3,0,No AI
+11/3/2025 4:19:37,JP2001,2007,4,1,Vincent van Gogh,10,1,Perth,4,0,Lead,4,0,Columbia,5,0,J.D. Salinger,3,0,Egypt,4,0,Tanzania,2,1,No AI
+11/3/2025 4:23:19,LA2000,2005,6,0,Vincent van Gogh,10,1,Sydney,10,0,Lead,5,0,USA,10,0,George Orwell,6,1,Egypt,10,0,Tanzania,5,1,No AI

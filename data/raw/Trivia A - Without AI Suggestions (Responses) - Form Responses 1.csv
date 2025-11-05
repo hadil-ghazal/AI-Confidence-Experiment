@@ -1,0 +1,30 @@
+Timestamp,"Please create and enter your unique Participant ID using 2 letters + 4 digits (e.g., HG1997).
+Use this exact same ID in both quizzes.","
+Which planet has the shortest year in our solar system?","How confident are you in your answer for “Which planet has the shortest year in our solar system?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)
+Validation: Number between 0 and 10",Q1_Correctness_Indicator,"How many bones are in the adult human body?
+","How confident are you in your answer for “How many bones are in the adult human body?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q2_Correctness_Indicator,What process allows plants to convert sunlight into energy?,"How confident are you in your answer for “What process allows plants to convert sunlight into energy?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q3_Correctness_Indicator,Which year was the film 'Pulp Fiction' released?,"How confident are you in your answer for “Which year was the film 'Pulp Fiction' released?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q4_Correctness_Indicator,In which years did World War I take place?,"How confident are you in your answer for “In which years did World War I take place?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q5_Correctness_Indicator,Which planet has the most moons?,"How confident are you in your answer for “Which planet has the most moons?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q6_Correctness_Indicator,What is the longest river in the world?,"How confident are you in your answer for “What is the longest river in the world?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q7_Correctness_Indicator,Who composed the Fifth Symphony?,"How confident are you in your answer for “Who composed the Fifth Symphony?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q8_Correctness_Indicator,AI_Indicator
+11/3/2025 9:44:39,Sh1973,Mercury,3,1,206,6,1,Respiration,7,0,1997,2,0,1914-1918,4,1,Jupiter,5,0,Nile River,10,1,Beethoven,4,1,No AI
+11/3/2025 9:50:02,HG1995,Mercury,6,1,206,9,1,Photosynthesis,10,1,1994,2,1,1939-1945,3,0,Jupiter,4,0,Nile River,4,1,Mozart,2,0,No AI
+11/3/2025 10:00:09,SA1456,Mercury,8,1,201,6,0,Photosynthesis,10,1,1995,4,0,1917-1921,4,0,Saturn,7,1,Nile River,7,1,Beethoven,7,1,No AI
+11/3/2025 10:05:22,Sw1992,Mercury,8,1,206,10,1,Photosynthesis,10,1,1995,5,0,1914-1918,7,1,Saturn,10,1,Nile River,10,1,Beethoven,7,1,No AI
+11/3/2025 16:15:01,AG1997,Mercury,5,1,210,0,0,Photosynthesis,10,1,1995,1,0,1920-1925,7,0,Saturn,8,1,Nile River,10,1,Mozart,3,0,No AI
+11/3/2025 16:17:09,Ld1109,Earth,7,0,201,4,0,Photosynthesis,10,1,1997,7,0,1917-1921,6,0,Saturn,3,1,Amazon River,10,0,Beethoven,5,1,No AI
+11/3/2025 16:21:24,YP6752,Venus,2,0,206,3,1,Photosynthesis,9,1,1995,4,0,1917-1921,2,0,Saturn,5,1,Nile River,5,1,Mozart,4,0,No AI
+11/3/2025 16:28:33,IK1125,Mercury,10,1,206,10,1,Photosynthesis,10,1,1994,5,1,1914-1918,10,1,Saturn,10,1,Amazon River,10,0,Mozart,5,0,No AI
+11/3/2025 17:00:39,xm9362,Mercury,10,1,206,10,1,Photosynthesis,10,1,1995,5,0,1914-1918,10,1,Saturn,10,1,Nile River,10,1,Beethoven,6,1,No AI
+11/3/2025 19:56:21,WW8888,Mercury,9,1,206,4,1,Photosynthesis,10,1,1994,1,1,1920-1925,2,0,Jupiter,10,0,Nile River,3,1,Beethoven,8,1,No AI
+11/3/2025 20:11:38,AG1999,Venus,8,0,206,0,1,Photosynthesis,10,1,1999,2,0,1914-1918,5,1,Neptune,5,0,Nile River,6,1,Mozart,0,0,No AI
+11/3/2025 20:18:06,SK6464,Mercury,5,1,206,10,1,Photosynthesis,10,1,1997,8,0,1917-1921,8,0,Saturn,8,1,Nile River,8,1,Beethoven,5,1,No AI
+11/3/2025 20:31:38,NO1999,Venus,1,0,206,8,1,Photosynthesis,10,1,1994,1,1,1939-1945,1,0,Neptune,0,0,Nile River,0,1,Beethoven,10,1,No AI
+11/3/2025 20:36:54,GG1965,Mars,1,0,206,0,1,Photosynthesis,10,1,1995,1,0,1914-1918,4,1,Jupiter,0,0,Nile River,10,1,Mozart,10,0,No AI
+11/3/2025 21:03:40,JP1999,Earth,1,0,206,9,1,Photosynthesis,10,1,1994,3,1,1914-1918,4,1,Jupiter,0,0,Nile River,8,1,Beethoven,5,1,No AI
+11/3/2025 21:15:51,YT7758,Mars,1,0,206,3,1,Photosynthesis,10,1,1997,5,0,1914-1918,10,1,Saturn,8,1,Amazon River,8,0,Beethoven,8,1,No AI
+11/3/2025 4:09:18,UD9356,Venus,3,0,201,4,0,Photosynthesis,7,1,1999,3,0,1939-1945,3,0,Saturn,4,1,Amazon River,2,0,Mozart,3,0,No AI

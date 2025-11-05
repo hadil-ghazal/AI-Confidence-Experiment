@@ -1,0 +1,36 @@
+Timestamp,"Please create and enter your unique Participant ID using 2 letters + 4 digits (e.g., HG1997).
+Use this exact same ID in both quizzes.","
+Which year was the first iPhone released? AI Suggestion: I think the answer might be “2007.”","How confident are you in your answer for “Which year was the first iPhone released?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)
+",Q1_Correctness_Indicator,"Who painted “The Starry Night”?
+AI Suggestion: I think the answer might be “Vincent van Gogh.”","How confident are you in your answer for “Who painted The Starry Night?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q2_Correctness_Indicator,"What is the capital of Australia?
+AI Suggestion: I think the answer might be ""Sydney"".","How confident are you in your answer for “What is the capital of Australia?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q3_Correctness_Indicator,"Which element has the chemical symbol Fe?
+AI Suggestion: I think the answer might be ""Iron"".","How confident are you in your answer for “Which element has the chemical symbol Fe?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q4_Correctness_Indicator,"Which country consumes the most coffee per capita?
+AI Suggestion: I think the answer might be ""USA"".","How confident are you in your answer for “Which country consumes the most coffee per capita?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q5_Correctness_Indicator,"Who wrote the novel 1984?
+AI Suggestion: I think the answer might be ""George Orwell"".","How confident are you in your answer for “Who wrote the novel 1984?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q6_Correctness_Indicator,"Which country invented paper?
+AI Suggestion: I think the answer might be ""Egypt"".","How confident are you in your answer for “Which country invented paper?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q7_Correctness_Indicator,"In which country is Mount Kilimanjaro located?
+AI Suggestion: I think the answer might be ""Uganda"".","How confident are you in your answer for “In which country is Mount Kilimanjaro located?” on a scale of 0–10?
+(0 = Not at all confident, 10 = Completely certain)",Q8_Correctness_Indicator,AI_Indicator
+11/3/2025 9:53:43,HG1995,2007,4,1,Vincent van Gogh,9,1,Sydney,7,0,Iron,9,1,USA,7,0,George Orwell,3,1,China,5,1,Uganda,5,0,AI
+11/3/2025 10:08:54,Sw1992,2009,5,0,Vincent van Gogh,10,1,Melbourne,10,0,Iron,10,1,USA,6,0,George Orwell,4,1,China,7,1,Tanzania,5,1,AI
+11/3/2025 16:18:24,AG1997,2005,5,0,Vincent van Gogh,5,1,Sydney,10,0,Iron,10,1,USA,5,0,George Orwell,5,1,Egypt,10,0,Uganda,5,0,AI
+11/3/2025 16:18:57,YP6752,2005,4,0,Vincent van Gogh,7,1,Sydney,5,0,Iron,9,1,Italy,4,0,George Orwell,9,1,China,3,1,Ethiopia,3,0,AI
+11/3/2025 16:28:33,Sh1973,2005,5,0,Vincent van Gogh,7,1,Sydney,9,0,Iron,5,1,USA,6,0,Ernest Hemingway,3,0,Egypt,8,0,Kenya,3,0,AI
+11/3/2025 16:32:14,IK1125,2007,8,1,Vincent van Gogh,9,1,Sydney,10,0,Iron,10,1,USA,10,0,George Orwell,7,1,China,7,1,Uganda,3,0,AI
+11/3/2025 16:57:42,xm3962,2007,8,1,Vincent van Gogh,10,1,Canberra,10,1,Iron,7,1,USA,5,0,George Orwell,10,1,China,10,1,Tanzania,10,1,AI
+11/3/2025 19:54:24,WW8888,2007,7,1,Vincent van Gogh,3,1,Canberra,10,1,Iron,8,1,Columbia,4,0,George Orwell,3,1,China,9,1,Uganda,3,0,AI
+11/3/2025 20:13:24,AG1999,2007,7,1,Vincent van Gogh,10,1,Sydney,9,0,Iron,10,1,USA,9,0,George Orwell,9,1,Egypt,9,0,Uganda,9,0,AI
+11/3/2025 20:15:40,SK6464,2005,8,0,Vincent van Gogh,10,1,Sydney,10,0,Iron,10,1,Italy,5,0,George Orwell,10,1,China,5,1,Tanzania,8,1,AI
+11/3/2025 20:33:08,NO1999,2005,1,0,Vincent van Gogh,10,1,Melbourne,10,0,Iron,10,1,USA,10,0,Ernest Hemingway,0,0,Egypt,0,0,Uganda,0,0,AI
+11/3/2025 20:34:49,GG1965,2005,6,0,Pablo Picasso,9,0,Sydney,7,0,Lead,2,0,Columbia,2,0,George Orwell,6,1,China,10,1,Tanzania,0,1,AI
+11/3/2025 21:08:15,JP1999,2005,2,0,Vincent van Gogh,10,1,Melbourne,0,0,Iron,10,1,Italy,5,0,George Orwell,10,1,Egypt,0,0,Tanzania,1,1,AI
+11/3/2025 21:18:14,UD9356,2005,8,0,Vincent van Gogh,10,1,Sydney,10,0,Iron,10,1,USA,7,0,George Orwell,10,1,China,10,1,Kenya,10,0,AI
+11/3/2025 4:12:41,YT7758,2007,7,1,Vincent van Gogh,9,1,Sydney,7,0,Iron,6,1,USA,8,0,George Orwell,6,1,Egypt,6,0,Uganda,6,0,AI
+11/3/2025 4:14:18,LD1109,2007,6,1,Vincent van Gogh,9,1,Sydney,7,0,Iron,8,1,USA,8,0,George Orwell,8,1,Egypt,7,0,Uganda,6,0,AI
+11/3/2025 4:15:38,SA1456,2007,5,1,Vincent van Gogh,8,1,Sydney,5,0,Iron,6,1,USA,5,0,George Orwell,6,1,Egypt,6,0,Uganda,7,0,AI
