@@ -1,3 +1,4 @@
+#V2 of the AI confidence analysis to add volumes since we need that for comparisons
 # New analysis to determine the interrelationship between AI suggestion and confidence
 # No AI was used to generate this code
 
@@ -66,13 +67,18 @@ def conf_band(x):
 
 merged["confidence_band"] = merged["confidence"].apply(conf_band)
 
-#creating the conditional accuracy here
+
+#V2 of conditional accuracy to include volumes for better comparisons
 summary = (
-    merged.groupby(["AI_Indicator", "confidence_band"])["correct"]
-    .mean()
+    merged.groupby(["AI_Indicator", "confidence_band"])
+    .agg(
+        mean_accuracy=("correct", "mean"),
+        n=("correct", "size")
+    )
     .reset_index()
-    .rename(columns={"correct": "mean_accuracy"})
+    .sort_values(["AI_Indicator", "confidence_band"])
 )
+
 
 #visualizing step
 plt.figure(figsize=(7, 5))

@@ -1,7 +1,7 @@
-AI_Indicator,confidence_band,mean_accuracy
-AI,High (8–10),0.7464788732394366
-AI,Low (0–5),0.375
-AI,Medium (6–7),0.44
-No AI,High (8–10),0.8518518518518519
-No AI,Low (0–5),0.42424242424242425
-No AI,Medium (6–7),0.625
+AI_Indicator,confidence_band,mean_accuracy,n
+AI,High (8–10),0.7464788732394366,71
+AI,Low (0–5),0.375,56
+AI,Medium (6–7),0.44,25
+No AI,High (8–10),0.8518518518518519,54
+No AI,Low (0–5),0.42424242424242425,66
+No AI,Medium (6–7),0.625,16
