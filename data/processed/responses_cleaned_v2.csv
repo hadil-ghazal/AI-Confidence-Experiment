@@ -1,0 +1,1017 @@
+timestamp,participant_id,quiz_type,ai_status,question_number,question_text,answer,confidence,correct,ai_suggestion,suggestion_text,source_file
+11/3/2025 9:53:43,HG1995,A,AI,1,"
+Which year was the first iPhone released? AI Suggestion: I think the answer might be “2007.”",2007,4,1,True,I think the answer might be “2007.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:53:43,HG1995,A,AI,2,"Who painted “The Starry Night”?
+AI Suggestion: I think the answer might be “Vincent van Gogh.”",Vincent van Gogh,9,1,True,I think the answer might be “Vincent van Gogh.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:53:43,HG1995,A,AI,3,"What is the capital of Australia?
+AI Suggestion: I think the answer might be ""Sydney"".",Sydney,7,0,True,"I think the answer might be ""Sydney"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:53:43,HG1995,A,AI,4,"Which element has the chemical symbol Fe?
+AI Suggestion: I think the answer might be ""Iron"".",Iron,9,1,True,"I think the answer might be ""Iron"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:53:43,HG1995,A,AI,5,"Which country consumes the most coffee per capita?
+AI Suggestion: I think the answer might be ""USA"".",USA,7,0,True,"I think the answer might be ""USA"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:53:43,HG1995,A,AI,6,"Who wrote the novel 1984?
+AI Suggestion: I think the answer might be ""George Orwell"".",George Orwell,3,1,True,"I think the answer might be ""George Orwell"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:53:43,HG1995,A,AI,7,"Which country invented paper?
+AI Suggestion: I think the answer might be ""Egypt"".",China,5,1,True,"I think the answer might be ""Egypt"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:53:43,HG1995,A,AI,8,"In which country is Mount Kilimanjaro located?
+AI Suggestion: I think the answer might be ""Uganda"".",Uganda,5,0,True,"I think the answer might be ""Uganda"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:08:54,Sw1992,A,AI,1,"
+Which year was the first iPhone released? AI Suggestion: I think the answer might be “2007.”",2009,5,0,True,I think the answer might be “2007.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:08:54,Sw1992,A,AI,2,"Who painted “The Starry Night”?
+AI Suggestion: I think the answer might be “Vincent van Gogh.”",Vincent van Gogh,10,1,True,I think the answer might be “Vincent van Gogh.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:08:54,Sw1992,A,AI,3,"What is the capital of Australia?
+AI Suggestion: I think the answer might be ""Sydney"".",Melbourne,10,0,True,"I think the answer might be ""Sydney"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:08:54,Sw1992,A,AI,4,"Which element has the chemical symbol Fe?
+AI Suggestion: I think the answer might be ""Iron"".",Iron,10,1,True,"I think the answer might be ""Iron"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:08:54,Sw1992,A,AI,5,"Which country consumes the most coffee per capita?
+AI Suggestion: I think the answer might be ""USA"".",USA,6,0,True,"I think the answer might be ""USA"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:08:54,Sw1992,A,AI,6,"Who wrote the novel 1984?
+AI Suggestion: I think the answer might be ""George Orwell"".",George Orwell,4,1,True,"I think the answer might be ""George Orwell"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:08:54,Sw1992,A,AI,7,"Which country invented paper?
+AI Suggestion: I think the answer might be ""Egypt"".",China,7,1,True,"I think the answer might be ""Egypt"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:08:54,Sw1992,A,AI,8,"In which country is Mount Kilimanjaro located?
+AI Suggestion: I think the answer might be ""Uganda"".",Tanzania,5,1,True,"I think the answer might be ""Uganda"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:18:24,AG1997,A,AI,1,"
+Which year was the first iPhone released? AI Suggestion: I think the answer might be “2007.”",2005,5,0,True,I think the answer might be “2007.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:18:24,AG1997,A,AI,2,"Who painted “The Starry Night”?
+AI Suggestion: I think the answer might be “Vincent van Gogh.”",Vincent van Gogh,5,1,True,I think the answer might be “Vincent van Gogh.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:18:24,AG1997,A,AI,3,"What is the capital of Australia?
+AI Suggestion: I think the answer might be ""Sydney"".",Sydney,10,0,True,"I think the answer might be ""Sydney"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:18:24,AG1997,A,AI,4,"Which element has the chemical symbol Fe?
+AI Suggestion: I think the answer might be ""Iron"".",Iron,10,1,True,"I think the answer might be ""Iron"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:18:24,AG1997,A,AI,5,"Which country consumes the most coffee per capita?
+AI Suggestion: I think the answer might be ""USA"".",USA,5,0,True,"I think the answer might be ""USA"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:18:24,AG1997,A,AI,6,"Who wrote the novel 1984?
+AI Suggestion: I think the answer might be ""George Orwell"".",George Orwell,5,1,True,"I think the answer might be ""George Orwell"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:18:24,AG1997,A,AI,7,"Which country invented paper?
+AI Suggestion: I think the answer might be ""Egypt"".",Egypt,10,0,True,"I think the answer might be ""Egypt"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:18:24,AG1997,A,AI,8,"In which country is Mount Kilimanjaro located?
+AI Suggestion: I think the answer might be ""Uganda"".",Uganda,5,0,True,"I think the answer might be ""Uganda"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:18:57,YP6752,A,AI,1,"
+Which year was the first iPhone released? AI Suggestion: I think the answer might be “2007.”",2005,4,0,True,I think the answer might be “2007.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:18:57,YP6752,A,AI,2,"Who painted “The Starry Night”?
+AI Suggestion: I think the answer might be “Vincent van Gogh.”",Vincent van Gogh,7,1,True,I think the answer might be “Vincent van Gogh.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:18:57,YP6752,A,AI,3,"What is the capital of Australia?
+AI Suggestion: I think the answer might be ""Sydney"".",Sydney,5,0,True,"I think the answer might be ""Sydney"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:18:57,YP6752,A,AI,4,"Which element has the chemical symbol Fe?
+AI Suggestion: I think the answer might be ""Iron"".",Iron,9,1,True,"I think the answer might be ""Iron"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:18:57,YP6752,A,AI,5,"Which country consumes the most coffee per capita?
+AI Suggestion: I think the answer might be ""USA"".",Italy,4,0,True,"I think the answer might be ""USA"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:18:57,YP6752,A,AI,6,"Who wrote the novel 1984?
+AI Suggestion: I think the answer might be ""George Orwell"".",George Orwell,9,1,True,"I think the answer might be ""George Orwell"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:18:57,YP6752,A,AI,7,"Which country invented paper?
+AI Suggestion: I think the answer might be ""Egypt"".",China,3,1,True,"I think the answer might be ""Egypt"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:18:57,YP6752,A,AI,8,"In which country is Mount Kilimanjaro located?
+AI Suggestion: I think the answer might be ""Uganda"".",Ethiopia,3,0,True,"I think the answer might be ""Uganda"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:28:33,Sh1973,A,AI,1,"
+Which year was the first iPhone released? AI Suggestion: I think the answer might be “2007.”",2005,5,0,True,I think the answer might be “2007.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:28:33,Sh1973,A,AI,2,"Who painted “The Starry Night”?
+AI Suggestion: I think the answer might be “Vincent van Gogh.”",Vincent van Gogh,7,1,True,I think the answer might be “Vincent van Gogh.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:28:33,Sh1973,A,AI,3,"What is the capital of Australia?
+AI Suggestion: I think the answer might be ""Sydney"".",Sydney,9,0,True,"I think the answer might be ""Sydney"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:28:33,Sh1973,A,AI,4,"Which element has the chemical symbol Fe?
+AI Suggestion: I think the answer might be ""Iron"".",Iron,5,1,True,"I think the answer might be ""Iron"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:28:33,Sh1973,A,AI,5,"Which country consumes the most coffee per capita?
+AI Suggestion: I think the answer might be ""USA"".",USA,6,0,True,"I think the answer might be ""USA"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:28:33,Sh1973,A,AI,6,"Who wrote the novel 1984?
+AI Suggestion: I think the answer might be ""George Orwell"".",Ernest Hemingway,3,0,True,"I think the answer might be ""George Orwell"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:28:33,Sh1973,A,AI,7,"Which country invented paper?
+AI Suggestion: I think the answer might be ""Egypt"".",Egypt,8,0,True,"I think the answer might be ""Egypt"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:28:33,Sh1973,A,AI,8,"In which country is Mount Kilimanjaro located?
+AI Suggestion: I think the answer might be ""Uganda"".",Kenya,3,0,True,"I think the answer might be ""Uganda"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:32:14,IK1125,A,AI,1,"
+Which year was the first iPhone released? AI Suggestion: I think the answer might be “2007.”",2007,8,1,True,I think the answer might be “2007.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:32:14,IK1125,A,AI,2,"Who painted “The Starry Night”?
+AI Suggestion: I think the answer might be “Vincent van Gogh.”",Vincent van Gogh,9,1,True,I think the answer might be “Vincent van Gogh.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:32:14,IK1125,A,AI,3,"What is the capital of Australia?
+AI Suggestion: I think the answer might be ""Sydney"".",Sydney,10,0,True,"I think the answer might be ""Sydney"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:32:14,IK1125,A,AI,4,"Which element has the chemical symbol Fe?
+AI Suggestion: I think the answer might be ""Iron"".",Iron,10,1,True,"I think the answer might be ""Iron"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:32:14,IK1125,A,AI,5,"Which country consumes the most coffee per capita?
+AI Suggestion: I think the answer might be ""USA"".",USA,10,0,True,"I think the answer might be ""USA"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:32:14,IK1125,A,AI,6,"Who wrote the novel 1984?
+AI Suggestion: I think the answer might be ""George Orwell"".",George Orwell,7,1,True,"I think the answer might be ""George Orwell"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:32:14,IK1125,A,AI,7,"Which country invented paper?
+AI Suggestion: I think the answer might be ""Egypt"".",China,7,1,True,"I think the answer might be ""Egypt"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:32:14,IK1125,A,AI,8,"In which country is Mount Kilimanjaro located?
+AI Suggestion: I think the answer might be ""Uganda"".",Uganda,3,0,True,"I think the answer might be ""Uganda"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:57:42,xm3962,A,AI,1,"
+Which year was the first iPhone released? AI Suggestion: I think the answer might be “2007.”",2007,8,1,True,I think the answer might be “2007.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:57:42,xm3962,A,AI,2,"Who painted “The Starry Night”?
+AI Suggestion: I think the answer might be “Vincent van Gogh.”",Vincent van Gogh,10,1,True,I think the answer might be “Vincent van Gogh.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:57:42,xm3962,A,AI,3,"What is the capital of Australia?
+AI Suggestion: I think the answer might be ""Sydney"".",Canberra,10,1,True,"I think the answer might be ""Sydney"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:57:42,xm3962,A,AI,4,"Which element has the chemical symbol Fe?
+AI Suggestion: I think the answer might be ""Iron"".",Iron,7,1,True,"I think the answer might be ""Iron"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:57:42,xm3962,A,AI,5,"Which country consumes the most coffee per capita?
+AI Suggestion: I think the answer might be ""USA"".",USA,5,0,True,"I think the answer might be ""USA"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:57:42,xm3962,A,AI,6,"Who wrote the novel 1984?
+AI Suggestion: I think the answer might be ""George Orwell"".",George Orwell,10,1,True,"I think the answer might be ""George Orwell"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:57:42,xm3962,A,AI,7,"Which country invented paper?
+AI Suggestion: I think the answer might be ""Egypt"".",China,10,1,True,"I think the answer might be ""Egypt"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:57:42,xm3962,A,AI,8,"In which country is Mount Kilimanjaro located?
+AI Suggestion: I think the answer might be ""Uganda"".",Tanzania,10,1,True,"I think the answer might be ""Uganda"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 19:54:24,WW8888,A,AI,1,"
+Which year was the first iPhone released? AI Suggestion: I think the answer might be “2007.”",2007,7,1,True,I think the answer might be “2007.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 19:54:24,WW8888,A,AI,2,"Who painted “The Starry Night”?
+AI Suggestion: I think the answer might be “Vincent van Gogh.”",Vincent van Gogh,3,1,True,I think the answer might be “Vincent van Gogh.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 19:54:24,WW8888,A,AI,3,"What is the capital of Australia?
+AI Suggestion: I think the answer might be ""Sydney"".",Canberra,10,1,True,"I think the answer might be ""Sydney"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 19:54:24,WW8888,A,AI,4,"Which element has the chemical symbol Fe?
+AI Suggestion: I think the answer might be ""Iron"".",Iron,8,1,True,"I think the answer might be ""Iron"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 19:54:24,WW8888,A,AI,5,"Which country consumes the most coffee per capita?
+AI Suggestion: I think the answer might be ""USA"".",Columbia,4,0,True,"I think the answer might be ""USA"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 19:54:24,WW8888,A,AI,6,"Who wrote the novel 1984?
+AI Suggestion: I think the answer might be ""George Orwell"".",George Orwell,3,1,True,"I think the answer might be ""George Orwell"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 19:54:24,WW8888,A,AI,7,"Which country invented paper?
+AI Suggestion: I think the answer might be ""Egypt"".",China,9,1,True,"I think the answer might be ""Egypt"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 19:54:24,WW8888,A,AI,8,"In which country is Mount Kilimanjaro located?
+AI Suggestion: I think the answer might be ""Uganda"".",Uganda,3,0,True,"I think the answer might be ""Uganda"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:13:24,AG1999,A,AI,1,"
+Which year was the first iPhone released? AI Suggestion: I think the answer might be “2007.”",2007,7,1,True,I think the answer might be “2007.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:13:24,AG1999,A,AI,2,"Who painted “The Starry Night”?
+AI Suggestion: I think the answer might be “Vincent van Gogh.”",Vincent van Gogh,10,1,True,I think the answer might be “Vincent van Gogh.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:13:24,AG1999,A,AI,3,"What is the capital of Australia?
+AI Suggestion: I think the answer might be ""Sydney"".",Sydney,9,0,True,"I think the answer might be ""Sydney"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:13:24,AG1999,A,AI,4,"Which element has the chemical symbol Fe?
+AI Suggestion: I think the answer might be ""Iron"".",Iron,10,1,True,"I think the answer might be ""Iron"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:13:24,AG1999,A,AI,5,"Which country consumes the most coffee per capita?
+AI Suggestion: I think the answer might be ""USA"".",USA,9,0,True,"I think the answer might be ""USA"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:13:24,AG1999,A,AI,6,"Who wrote the novel 1984?
+AI Suggestion: I think the answer might be ""George Orwell"".",George Orwell,9,1,True,"I think the answer might be ""George Orwell"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:13:24,AG1999,A,AI,7,"Which country invented paper?
+AI Suggestion: I think the answer might be ""Egypt"".",Egypt,9,0,True,"I think the answer might be ""Egypt"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:13:24,AG1999,A,AI,8,"In which country is Mount Kilimanjaro located?
+AI Suggestion: I think the answer might be ""Uganda"".",Uganda,9,0,True,"I think the answer might be ""Uganda"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:15:40,SK6464,A,AI,1,"
+Which year was the first iPhone released? AI Suggestion: I think the answer might be “2007.”",2005,8,0,True,I think the answer might be “2007.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:15:40,SK6464,A,AI,2,"Who painted “The Starry Night”?
+AI Suggestion: I think the answer might be “Vincent van Gogh.”",Vincent van Gogh,10,1,True,I think the answer might be “Vincent van Gogh.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:15:40,SK6464,A,AI,3,"What is the capital of Australia?
+AI Suggestion: I think the answer might be ""Sydney"".",Sydney,10,0,True,"I think the answer might be ""Sydney"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:15:40,SK6464,A,AI,4,"Which element has the chemical symbol Fe?
+AI Suggestion: I think the answer might be ""Iron"".",Iron,10,1,True,"I think the answer might be ""Iron"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:15:40,SK6464,A,AI,5,"Which country consumes the most coffee per capita?
+AI Suggestion: I think the answer might be ""USA"".",Italy,5,0,True,"I think the answer might be ""USA"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:15:40,SK6464,A,AI,6,"Who wrote the novel 1984?
+AI Suggestion: I think the answer might be ""George Orwell"".",George Orwell,10,1,True,"I think the answer might be ""George Orwell"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:15:40,SK6464,A,AI,7,"Which country invented paper?
+AI Suggestion: I think the answer might be ""Egypt"".",China,5,1,True,"I think the answer might be ""Egypt"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:15:40,SK6464,A,AI,8,"In which country is Mount Kilimanjaro located?
+AI Suggestion: I think the answer might be ""Uganda"".",Tanzania,8,1,True,"I think the answer might be ""Uganda"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:33:08,NO1999,A,AI,1,"
+Which year was the first iPhone released? AI Suggestion: I think the answer might be “2007.”",2005,1,0,True,I think the answer might be “2007.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:33:08,NO1999,A,AI,2,"Who painted “The Starry Night”?
+AI Suggestion: I think the answer might be “Vincent van Gogh.”",Vincent van Gogh,10,1,True,I think the answer might be “Vincent van Gogh.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:33:08,NO1999,A,AI,3,"What is the capital of Australia?
+AI Suggestion: I think the answer might be ""Sydney"".",Melbourne,10,0,True,"I think the answer might be ""Sydney"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:33:08,NO1999,A,AI,4,"Which element has the chemical symbol Fe?
+AI Suggestion: I think the answer might be ""Iron"".",Iron,10,1,True,"I think the answer might be ""Iron"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:33:08,NO1999,A,AI,5,"Which country consumes the most coffee per capita?
+AI Suggestion: I think the answer might be ""USA"".",USA,10,0,True,"I think the answer might be ""USA"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:33:08,NO1999,A,AI,6,"Who wrote the novel 1984?
+AI Suggestion: I think the answer might be ""George Orwell"".",Ernest Hemingway,0,0,True,"I think the answer might be ""George Orwell"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:33:08,NO1999,A,AI,7,"Which country invented paper?
+AI Suggestion: I think the answer might be ""Egypt"".",Egypt,0,0,True,"I think the answer might be ""Egypt"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:33:08,NO1999,A,AI,8,"In which country is Mount Kilimanjaro located?
+AI Suggestion: I think the answer might be ""Uganda"".",Uganda,0,0,True,"I think the answer might be ""Uganda"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:34:49,GG1965,A,AI,1,"
+Which year was the first iPhone released? AI Suggestion: I think the answer might be “2007.”",2005,6,0,True,I think the answer might be “2007.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:34:49,GG1965,A,AI,2,"Who painted “The Starry Night”?
+AI Suggestion: I think the answer might be “Vincent van Gogh.”",Pablo Picasso,9,0,True,I think the answer might be “Vincent van Gogh.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:34:49,GG1965,A,AI,3,"What is the capital of Australia?
+AI Suggestion: I think the answer might be ""Sydney"".",Sydney,7,0,True,"I think the answer might be ""Sydney"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:34:49,GG1965,A,AI,4,"Which element has the chemical symbol Fe?
+AI Suggestion: I think the answer might be ""Iron"".",Lead,2,0,True,"I think the answer might be ""Iron"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:34:49,GG1965,A,AI,5,"Which country consumes the most coffee per capita?
+AI Suggestion: I think the answer might be ""USA"".",Columbia,2,0,True,"I think the answer might be ""USA"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:34:49,GG1965,A,AI,6,"Who wrote the novel 1984?
+AI Suggestion: I think the answer might be ""George Orwell"".",George Orwell,6,1,True,"I think the answer might be ""George Orwell"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:34:49,GG1965,A,AI,7,"Which country invented paper?
+AI Suggestion: I think the answer might be ""Egypt"".",China,10,1,True,"I think the answer might be ""Egypt"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:34:49,GG1965,A,AI,8,"In which country is Mount Kilimanjaro located?
+AI Suggestion: I think the answer might be ""Uganda"".",Tanzania,0,1,True,"I think the answer might be ""Uganda"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:08:15,JP1999,A,AI,1,"
+Which year was the first iPhone released? AI Suggestion: I think the answer might be “2007.”",2005,2,0,True,I think the answer might be “2007.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:08:15,JP1999,A,AI,2,"Who painted “The Starry Night”?
+AI Suggestion: I think the answer might be “Vincent van Gogh.”",Vincent van Gogh,10,1,True,I think the answer might be “Vincent van Gogh.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:08:15,JP1999,A,AI,3,"What is the capital of Australia?
+AI Suggestion: I think the answer might be ""Sydney"".",Melbourne,0,0,True,"I think the answer might be ""Sydney"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:08:15,JP1999,A,AI,4,"Which element has the chemical symbol Fe?
+AI Suggestion: I think the answer might be ""Iron"".",Iron,10,1,True,"I think the answer might be ""Iron"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:08:15,JP1999,A,AI,5,"Which country consumes the most coffee per capita?
+AI Suggestion: I think the answer might be ""USA"".",Italy,5,0,True,"I think the answer might be ""USA"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:08:15,JP1999,A,AI,6,"Who wrote the novel 1984?
+AI Suggestion: I think the answer might be ""George Orwell"".",George Orwell,10,1,True,"I think the answer might be ""George Orwell"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:08:15,JP1999,A,AI,7,"Which country invented paper?
+AI Suggestion: I think the answer might be ""Egypt"".",Egypt,0,0,True,"I think the answer might be ""Egypt"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:08:15,JP1999,A,AI,8,"In which country is Mount Kilimanjaro located?
+AI Suggestion: I think the answer might be ""Uganda"".",Tanzania,1,1,True,"I think the answer might be ""Uganda"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:18:14,UD9356,A,AI,1,"
+Which year was the first iPhone released? AI Suggestion: I think the answer might be “2007.”",2005,8,0,True,I think the answer might be “2007.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:18:14,UD9356,A,AI,2,"Who painted “The Starry Night”?
+AI Suggestion: I think the answer might be “Vincent van Gogh.”",Vincent van Gogh,10,1,True,I think the answer might be “Vincent van Gogh.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:18:14,UD9356,A,AI,3,"What is the capital of Australia?
+AI Suggestion: I think the answer might be ""Sydney"".",Sydney,10,0,True,"I think the answer might be ""Sydney"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:18:14,UD9356,A,AI,4,"Which element has the chemical symbol Fe?
+AI Suggestion: I think the answer might be ""Iron"".",Iron,10,1,True,"I think the answer might be ""Iron"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:18:14,UD9356,A,AI,5,"Which country consumes the most coffee per capita?
+AI Suggestion: I think the answer might be ""USA"".",USA,7,0,True,"I think the answer might be ""USA"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:18:14,UD9356,A,AI,6,"Who wrote the novel 1984?
+AI Suggestion: I think the answer might be ""George Orwell"".",George Orwell,10,1,True,"I think the answer might be ""George Orwell"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:18:14,UD9356,A,AI,7,"Which country invented paper?
+AI Suggestion: I think the answer might be ""Egypt"".",China,10,1,True,"I think the answer might be ""Egypt"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:18:14,UD9356,A,AI,8,"In which country is Mount Kilimanjaro located?
+AI Suggestion: I think the answer might be ""Uganda"".",Kenya,10,0,True,"I think the answer might be ""Uganda"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:12:41,YT7758,A,AI,1,"
+Which year was the first iPhone released? AI Suggestion: I think the answer might be “2007.”",2007,7,1,True,I think the answer might be “2007.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:12:41,YT7758,A,AI,2,"Who painted “The Starry Night”?
+AI Suggestion: I think the answer might be “Vincent van Gogh.”",Vincent van Gogh,9,1,True,I think the answer might be “Vincent van Gogh.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:12:41,YT7758,A,AI,3,"What is the capital of Australia?
+AI Suggestion: I think the answer might be ""Sydney"".",Sydney,7,0,True,"I think the answer might be ""Sydney"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:12:41,YT7758,A,AI,4,"Which element has the chemical symbol Fe?
+AI Suggestion: I think the answer might be ""Iron"".",Iron,6,1,True,"I think the answer might be ""Iron"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:12:41,YT7758,A,AI,5,"Which country consumes the most coffee per capita?
+AI Suggestion: I think the answer might be ""USA"".",USA,8,0,True,"I think the answer might be ""USA"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:12:41,YT7758,A,AI,6,"Who wrote the novel 1984?
+AI Suggestion: I think the answer might be ""George Orwell"".",George Orwell,6,1,True,"I think the answer might be ""George Orwell"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:12:41,YT7758,A,AI,7,"Which country invented paper?
+AI Suggestion: I think the answer might be ""Egypt"".",Egypt,6,0,True,"I think the answer might be ""Egypt"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:12:41,YT7758,A,AI,8,"In which country is Mount Kilimanjaro located?
+AI Suggestion: I think the answer might be ""Uganda"".",Uganda,6,0,True,"I think the answer might be ""Uganda"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:14:18,LD1109,A,AI,1,"
+Which year was the first iPhone released? AI Suggestion: I think the answer might be “2007.”",2007,6,1,True,I think the answer might be “2007.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:14:18,LD1109,A,AI,2,"Who painted “The Starry Night”?
+AI Suggestion: I think the answer might be “Vincent van Gogh.”",Vincent van Gogh,9,1,True,I think the answer might be “Vincent van Gogh.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:14:18,LD1109,A,AI,3,"What is the capital of Australia?
+AI Suggestion: I think the answer might be ""Sydney"".",Sydney,7,0,True,"I think the answer might be ""Sydney"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:14:18,LD1109,A,AI,4,"Which element has the chemical symbol Fe?
+AI Suggestion: I think the answer might be ""Iron"".",Iron,8,1,True,"I think the answer might be ""Iron"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:14:18,LD1109,A,AI,5,"Which country consumes the most coffee per capita?
+AI Suggestion: I think the answer might be ""USA"".",USA,8,0,True,"I think the answer might be ""USA"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:14:18,LD1109,A,AI,6,"Who wrote the novel 1984?
+AI Suggestion: I think the answer might be ""George Orwell"".",George Orwell,8,1,True,"I think the answer might be ""George Orwell"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:14:18,LD1109,A,AI,7,"Which country invented paper?
+AI Suggestion: I think the answer might be ""Egypt"".",Egypt,7,0,True,"I think the answer might be ""Egypt"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:14:18,LD1109,A,AI,8,"In which country is Mount Kilimanjaro located?
+AI Suggestion: I think the answer might be ""Uganda"".",Uganda,6,0,True,"I think the answer might be ""Uganda"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:15:38,SA1456,A,AI,1,"
+Which year was the first iPhone released? AI Suggestion: I think the answer might be “2007.”",2007,5,1,True,I think the answer might be “2007.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:15:38,SA1456,A,AI,2,"Who painted “The Starry Night”?
+AI Suggestion: I think the answer might be “Vincent van Gogh.”",Vincent van Gogh,8,1,True,I think the answer might be “Vincent van Gogh.”,Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:15:38,SA1456,A,AI,3,"What is the capital of Australia?
+AI Suggestion: I think the answer might be ""Sydney"".",Sydney,5,0,True,"I think the answer might be ""Sydney"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:15:38,SA1456,A,AI,4,"Which element has the chemical symbol Fe?
+AI Suggestion: I think the answer might be ""Iron"".",Iron,6,1,True,"I think the answer might be ""Iron"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:15:38,SA1456,A,AI,5,"Which country consumes the most coffee per capita?
+AI Suggestion: I think the answer might be ""USA"".",USA,5,0,True,"I think the answer might be ""USA"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:15:38,SA1456,A,AI,6,"Who wrote the novel 1984?
+AI Suggestion: I think the answer might be ""George Orwell"".",George Orwell,6,1,True,"I think the answer might be ""George Orwell"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:15:38,SA1456,A,AI,7,"Which country invented paper?
+AI Suggestion: I think the answer might be ""Egypt"".",Egypt,6,0,True,"I think the answer might be ""Egypt"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:15:38,SA1456,A,AI,8,"In which country is Mount Kilimanjaro located?
+AI Suggestion: I think the answer might be ""Uganda"".",Uganda,7,0,True,"I think the answer might be ""Uganda"".",Trivia B - With AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 11:24:15,GF1234,A,No AI,1,"
+Which year was the first iPhone released? ",2009,7,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 11:24:15,GF1234,A,No AI,2,"Who painted “The Starry Night”?
+",Vincent van Gogh,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 11:24:15,GF1234,A,No AI,3,What is the capital of Australia?,Sydney,7,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 11:24:15,GF1234,A,No AI,4,"Which element has the chemical symbol Fe?
+",Iron,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 11:24:15,GF1234,A,No AI,5,"Which country consumes the most coffee per capita?
+",USA,7,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 11:24:15,GF1234,A,No AI,6,"Who wrote the novel 1984?
+",George Orwell,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 11:24:15,GF1234,A,No AI,7,"Which country invented paper?
+",Egypt,6,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 11:24:15,GF1234,A,No AI,8,"In which country is Mount Kilimanjaro located?
+",Uganda,5,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:45:11,JA2000,A,No AI,1,"
+Which year was the first iPhone released? ",2009,2,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:45:11,JA2000,A,No AI,2,"Who painted “The Starry Night”?
+",Vincent van Gogh,8,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:45:11,JA2000,A,No AI,3,What is the capital of Australia?,Canberra,7,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:45:11,JA2000,A,No AI,4,"Which element has the chemical symbol Fe?
+",Iron,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:45:11,JA2000,A,No AI,5,"Which country consumes the most coffee per capita?
+",USA,5,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:45:11,JA2000,A,No AI,6,"Who wrote the novel 1984?
+",George Orwell,3,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:45:11,JA2000,A,No AI,7,"Which country invented paper?
+",China,7,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:45:11,JA2000,A,No AI,8,"In which country is Mount Kilimanjaro located?
+",Ethiopia,3,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:54:32,YA2013,A,No AI,1,"
+Which year was the first iPhone released? ",2007,6,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:54:32,YA2013,A,No AI,2,"Who painted “The Starry Night”?
+",Pablo Picasso,7,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:54:32,YA2013,A,No AI,3,What is the capital of Australia?,Sydney,8,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:54:32,YA2013,A,No AI,4,"Which element has the chemical symbol Fe?
+",Iron,5,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:54:32,YA2013,A,No AI,5,"Which country consumes the most coffee per capita?
+",Columbia,5,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:54:32,YA2013,A,No AI,6,"Who wrote the novel 1984?
+",George Orwell,0,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:54:32,YA2013,A,No AI,7,"Which country invented paper?
+",Greece,10,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:54:32,YA2013,A,No AI,8,"In which country is Mount Kilimanjaro located?
+",Ethiopia,8,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:22:11,AW2013,A,No AI,1,"
+Which year was the first iPhone released? ",2005,5,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:22:11,AW2013,A,No AI,2,"Who painted “The Starry Night”?
+",Vincent van Gogh,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:22:11,AW2013,A,No AI,3,What is the capital of Australia?,Sydney,4,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:22:11,AW2013,A,No AI,4,"Which element has the chemical symbol Fe?
+",Francium,1,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:22:11,AW2013,A,No AI,5,"Which country consumes the most coffee per capita?
+",Columbia,3,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:22:11,AW2013,A,No AI,6,"Who wrote the novel 1984?
+",Ernest Hemingway,1,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:22:11,AW2013,A,No AI,7,"Which country invented paper?
+",China,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:22:11,AW2013,A,No AI,8,"In which country is Mount Kilimanjaro located?
+",Ethiopia,0,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:24:37,MK9876,A,No AI,1,"
+Which year was the first iPhone released? ",2007,6,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:24:37,MK9876,A,No AI,2,"Who painted “The Starry Night”?
+",Vincent van Gogh,9,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:24:37,MK9876,A,No AI,3,What is the capital of Australia?,Sydney,6,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:24:37,MK9876,A,No AI,4,"Which element has the chemical symbol Fe?
+",Flourine,2,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:24:37,MK9876,A,No AI,5,"Which country consumes the most coffee per capita?
+",USA,6,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:24:37,MK9876,A,No AI,6,"Who wrote the novel 1984?
+",Ernest Hemingway,0,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:24:37,MK9876,A,No AI,7,"Which country invented paper?
+",China,7,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:24:37,MK9876,A,No AI,8,"In which country is Mount Kilimanjaro located?
+",Ethiopia,5,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:25:41,am6767,A,No AI,1,"
+Which year was the first iPhone released? ",2007,5,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:25:41,am6767,A,No AI,2,"Who painted “The Starry Night”?
+",Pablo Picasso,0,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:25:41,am6767,A,No AI,3,What is the capital of Australia?,Canberra,8,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:25:41,am6767,A,No AI,4,"Which element has the chemical symbol Fe?
+",Iron,2,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:25:41,am6767,A,No AI,5,"Which country consumes the most coffee per capita?
+",USA,5,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:25:41,am6767,A,No AI,6,"Who wrote the novel 1984?
+",George Orwell,1,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:25:41,am6767,A,No AI,7,"Which country invented paper?
+",China,9,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:25:41,am6767,A,No AI,8,"In which country is Mount Kilimanjaro located?
+",Ethiopia,0,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:26:03,LU6767,A,No AI,1,"
+Which year was the first iPhone released? ",2005,4,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:26:03,LU6767,A,No AI,2,"Who painted “The Starry Night”?
+",Vincent van Gogh,1,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:26:03,LU6767,A,No AI,3,What is the capital of Australia?,Sydney,6,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:26:03,LU6767,A,No AI,4,"Which element has the chemical symbol Fe?
+",Flourine,1,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:26:03,LU6767,A,No AI,5,"Which country consumes the most coffee per capita?
+",USA,7,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:26:03,LU6767,A,No AI,6,"Who wrote the novel 1984?
+",Ernest Hemingway,0,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:26:03,LU6767,A,No AI,7,"Which country invented paper?
+",Egypt,6,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:26:03,LU6767,A,No AI,8,"In which country is Mount Kilimanjaro located?
+",Tanzania,4,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:31:56,MC6767,A,No AI,1,"
+Which year was the first iPhone released? ",2005,1,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:31:56,MC6767,A,No AI,2,"Who painted “The Starry Night”?
+",Claude Monet,1,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:31:56,MC6767,A,No AI,3,What is the capital of Australia?,Perth,0,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:31:56,MC6767,A,No AI,4,"Which element has the chemical symbol Fe?
+",Flourine,2,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:31:56,MC6767,A,No AI,5,"Which country consumes the most coffee per capita?
+",Finland,1,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:31:56,MC6767,A,No AI,6,"Who wrote the novel 1984?
+",Aldous Huxley,0,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:31:56,MC6767,A,No AI,7,"Which country invented paper?
+",China,2,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:31:56,MC6767,A,No AI,8,"In which country is Mount Kilimanjaro located?
+",Uganda,0,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:59:14,JY1511,A,No AI,1,"
+Which year was the first iPhone released? ",2005,1,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:59:14,JY1511,A,No AI,2,"Who painted “The Starry Night”?
+",Vincent van Gogh,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:59:14,JY1511,A,No AI,3,What is the capital of Australia?,Canberra,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:59:14,JY1511,A,No AI,4,"Which element has the chemical symbol Fe?
+",Francium,1,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:59:14,JY1511,A,No AI,5,"Which country consumes the most coffee per capita?
+",USA,1,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:59:14,JY1511,A,No AI,6,"Who wrote the novel 1984?
+",J.D. Salinger,0,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:59:14,JY1511,A,No AI,7,"Which country invented paper?
+",China,0,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:59:14,JY1511,A,No AI,8,"In which country is Mount Kilimanjaro located?
+",Tanzania,0,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:46:59,GG1234,A,No AI,1,"
+Which year was the first iPhone released? ",2005,7,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:46:59,GG1234,A,No AI,2,"Who painted “The Starry Night”?
+",Pablo Picasso,1,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:46:59,GG1234,A,No AI,3,What is the capital of Australia?,Sydney,10,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:46:59,GG1234,A,No AI,4,"Which element has the chemical symbol Fe?
+",Iron,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:46:59,GG1234,A,No AI,5,"Which country consumes the most coffee per capita?
+",USA,5,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:46:59,GG1234,A,No AI,6,"Who wrote the novel 1984?
+",George Orwell,0,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:46:59,GG1234,A,No AI,7,"Which country invented paper?
+",Egypt,7,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:46:59,GG1234,A,No AI,8,"In which country is Mount Kilimanjaro located?
+",Ethiopia,1,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:53:31,BZ1988,A,No AI,1,"
+Which year was the first iPhone released? ",2005,9,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:53:31,BZ1988,A,No AI,2,"Who painted “The Starry Night”?
+",Pablo Picasso,10,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:53:31,BZ1988,A,No AI,3,What is the capital of Australia?,Sydney,9,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:53:31,BZ1988,A,No AI,4,"Which element has the chemical symbol Fe?
+",Francium,6,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:53:31,BZ1988,A,No AI,5,"Which country consumes the most coffee per capita?
+",Columbia,6,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:53:31,BZ1988,A,No AI,6,"Who wrote the novel 1984?
+",George Orwell,5,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:53:31,BZ1988,A,No AI,7,"Which country invented paper?
+",Greece,6,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:53:31,BZ1988,A,No AI,8,"In which country is Mount Kilimanjaro located?
+",Ethiopia,10,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 17:18:27,nl9533,A,No AI,1,"
+Which year was the first iPhone released? ",2007,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 17:18:27,nl9533,A,No AI,2,"Who painted “The Starry Night”?
+",Vincent van Gogh,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 17:18:27,nl9533,A,No AI,3,What is the capital of Australia?,Canberra,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 17:18:27,nl9533,A,No AI,4,"Which element has the chemical symbol Fe?
+",Iron,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 17:18:27,nl9533,A,No AI,5,"Which country consumes the most coffee per capita?
+",Finland,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 17:18:27,nl9533,A,No AI,6,"Who wrote the novel 1984?
+",J.D. Salinger,4,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 17:18:27,nl9533,A,No AI,7,"Which country invented paper?
+",China,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 17:18:27,nl9533,A,No AI,8,"In which country is Mount Kilimanjaro located?
+",Tanzania,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:03:12,SJ1125,A,No AI,1,"
+Which year was the first iPhone released? ",2007,5,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:03:12,SJ1125,A,No AI,2,"Who painted “The Starry Night”?
+",Vincent van Gogh,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:03:12,SJ1125,A,No AI,3,What is the capital of Australia?,Sydney,10,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:03:12,SJ1125,A,No AI,4,"Which element has the chemical symbol Fe?
+",Iron,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:03:12,SJ1125,A,No AI,5,"Which country consumes the most coffee per capita?
+",USA,10,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:03:12,SJ1125,A,No AI,6,"Who wrote the novel 1984?
+",George Orwell,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:03:12,SJ1125,A,No AI,7,"Which country invented paper?
+",China,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:03:12,SJ1125,A,No AI,8,"In which country is Mount Kilimanjaro located?
+",Tanzania,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:57:50,LE1969,A,No AI,1,"
+Which year was the first iPhone released? ",2005,9,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:57:50,LE1969,A,No AI,2,"Who painted “The Starry Night”?
+",Vincent van Gogh,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:57:50,LE1969,A,No AI,3,What is the capital of Australia?,Sydney,10,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:57:50,LE1969,A,No AI,4,"Which element has the chemical symbol Fe?
+",Flourine,2,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:57:50,LE1969,A,No AI,5,"Which country consumes the most coffee per capita?
+",Columbia,6,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:57:50,LE1969,A,No AI,6,"Who wrote the novel 1984?
+",George Orwell,1,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:57:50,LE1969,A,No AI,7,"Which country invented paper?
+",China,5,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:57:50,LE1969,A,No AI,8,"In which country is Mount Kilimanjaro located?
+",Tanzania,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:05:34,PL9034,A,No AI,1,"
+Which year was the first iPhone released? ",2005,4,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:05:34,PL9034,A,No AI,2,"Who painted “The Starry Night”?
+",Vincent van Gogh,9,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:05:34,PL9034,A,No AI,3,What is the capital of Australia?,Sydney,4,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:05:34,PL9034,A,No AI,4,"Which element has the chemical symbol Fe?
+",Iron,7,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:05:34,PL9034,A,No AI,5,"Which country consumes the most coffee per capita?
+",USA,6,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:05:34,PL9034,A,No AI,6,"Who wrote the novel 1984?
+",George Orwell,3,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:05:34,PL9034,A,No AI,7,"Which country invented paper?
+",India,3,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:05:34,PL9034,A,No AI,8,"In which country is Mount Kilimanjaro located?
+",Kenya,2,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:18:27,TJ1995,A,No AI,1,"
+Which year was the first iPhone released? ",2010,3,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:18:27,TJ1995,A,No AI,2,"Who painted “The Starry Night”?
+",Pablo Picasso,4,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:18:27,TJ1995,A,No AI,3,What is the capital of Australia?,Sydney,6,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:18:27,TJ1995,A,No AI,4,"Which element has the chemical symbol Fe?
+",Iron,6,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:18:27,TJ1995,A,No AI,5,"Which country consumes the most coffee per capita?
+",Italy,7,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:18:27,TJ1995,A,No AI,6,"Who wrote the novel 1984?
+",George Orwell,7,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:18:27,TJ1995,A,No AI,7,"Which country invented paper?
+",India,4,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:18:27,TJ1995,A,No AI,8,"In which country is Mount Kilimanjaro located?
+",Ethiopia,3,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:19:37,JP2001,A,No AI,1,"
+Which year was the first iPhone released? ",2007,4,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:19:37,JP2001,A,No AI,2,"Who painted “The Starry Night”?
+",Vincent van Gogh,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:19:37,JP2001,A,No AI,3,What is the capital of Australia?,Perth,4,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:19:37,JP2001,A,No AI,4,"Which element has the chemical symbol Fe?
+",Lead,4,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:19:37,JP2001,A,No AI,5,"Which country consumes the most coffee per capita?
+",Columbia,5,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:19:37,JP2001,A,No AI,6,"Who wrote the novel 1984?
+",J.D. Salinger,3,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:19:37,JP2001,A,No AI,7,"Which country invented paper?
+",Egypt,4,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:19:37,JP2001,A,No AI,8,"In which country is Mount Kilimanjaro located?
+",Tanzania,2,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:23:19,LA2000,A,No AI,1,"
+Which year was the first iPhone released? ",2005,6,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:23:19,LA2000,A,No AI,2,"Who painted “The Starry Night”?
+",Vincent van Gogh,10,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:23:19,LA2000,A,No AI,3,What is the capital of Australia?,Sydney,10,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:23:19,LA2000,A,No AI,4,"Which element has the chemical symbol Fe?
+",Lead,5,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:23:19,LA2000,A,No AI,5,"Which country consumes the most coffee per capita?
+",USA,10,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:23:19,LA2000,A,No AI,6,"Who wrote the novel 1984?
+",George Orwell,6,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:23:19,LA2000,A,No AI,7,"Which country invented paper?
+",Egypt,10,0,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:23:19,LA2000,A,No AI,8,"In which country is Mount Kilimanjaro located?
+",Tanzania,5,1,False,,Trivia B - Without AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 11:21:55,GF1234,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Mercury,6,1,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 11:21:55,GF1234,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",206,10,1,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 11:21:55,GF1234,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Photosynthesis,10,1,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 11:21:55,GF1234,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1995,6,0,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 11:21:55,GF1234,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1917-1921,6,0,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 11:21:55,GF1234,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Jupiter,8,0,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 11:21:55,GF1234,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Amazon River,6,0,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 11:21:55,GF1234,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Beethoven,9,1,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:37:58,JA2000,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Mercury,6,1,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:37:58,JA2000,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",206,10,1,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:37:58,JA2000,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Photosynthesis,10,1,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:37:58,JA2000,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1995,7,0,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:37:58,JA2000,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1917-1921,9,0,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:37:58,JA2000,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Jupiter,2,0,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:37:58,JA2000,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Nile River,10,1,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:37:58,JA2000,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Beethoven,8,1,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:52:52,YA2013,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Venus,6,0,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:52:52,YA2013,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",210,8,0,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:52:52,YA2013,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Photosynthesis,7,1,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:52:52,YA2013,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1994,4,1,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:52:52,YA2013,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1914-1918,4,1,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:52:52,YA2013,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Saturn,3,1,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:52:52,YA2013,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Nile River,9,1,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:52:52,YA2013,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Beethoven,7,1,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:59:05,NS1234,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Mercury,10,1,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:59:05,NS1234,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",206,10,1,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:59:05,NS1234,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Photosynthesis,10,1,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:59:05,NS1234,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1997,1,0,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:59:05,NS1234,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1914-1918,10,1,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:59:05,NS1234,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Saturn,10,1,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:59:05,NS1234,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Nile River,10,1,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 14:59:05,NS1234,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Beethoven,10,1,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:22:32,MK9876,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Mercury,7,1,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:22:32,MK9876,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",206,9,1,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:22:32,MK9876,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Photosynthesis,10,1,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:22:32,MK9876,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1995,1,0,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:22:32,MK9876,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1917-1921,3,0,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:22:32,MK9876,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Jupiter,0,0,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:22:32,MK9876,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Amazon River,5,0,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:22:32,MK9876,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Beethoven,7,1,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:26:19,AW2013,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Mercury,10,1,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:26:19,AW2013,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",206,10,1,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:26:19,AW2013,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Photosynthesis,10,1,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:26:19,AW2013,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1997,4,0,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:26:19,AW2013,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1917-1921,6,0,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:26:19,AW2013,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Saturn,4,1,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:26:19,AW2013,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Amazon River,4,0,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:26:19,AW2013,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Mozart,4,0,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:28:41,MC6767,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Mercury,1,1,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:28:41,MC6767,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",190,8,0,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:28:41,MC6767,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Photosynthesis,1,1,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:28:41,MC6767,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1995,1,0,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:28:41,MC6767,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1920-1925,4,0,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:28:41,MC6767,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Jupiter,1,0,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:28:41,MC6767,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Mississipi River,0,0,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:28:41,MC6767,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Bach,0,0,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:29:49,LU6767,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Mars,2,0,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:29:49,LU6767,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",190,8,0,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:29:49,LU6767,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Fermentation,2,0,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:29:49,LU6767,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1995,4,0,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:29:49,LU6767,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1914-1918,6,1,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:29:49,LU6767,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Saturn,8,1,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:29:49,LU6767,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Mississipi River,10,0,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:29:49,LU6767,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Beethoven,3,1,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:30:52,am6767,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Mercury,5,1,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:30:52,am6767,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",206,5,1,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:30:52,am6767,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Photosynthesis,5,1,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:30:52,am6767,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1995,5,0,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:30:52,am6767,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1917-1921,5,0,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:30:52,am6767,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Jupiter,5,0,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:30:52,am6767,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Amazon River,5,0,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:30:52,am6767,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Beethoven,5,1,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:56:56,JY1511,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Mercury,10,1,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:56:56,JY1511,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",206,10,1,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:56:56,JY1511,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Photosynthesis,10,1,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:56:56,JY1511,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1995,10,0,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:56:56,JY1511,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1917-1921,10,0,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:56:56,JY1511,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Jupiter,10,0,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:56:56,JY1511,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Amazon River,10,0,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 15:56:56,JY1511,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Beethoven,10,1,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:44:01,GG1234,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Mercury,5,1,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:44:01,GG1234,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",206,5,1,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:44:01,GG1234,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Photosynthesis,10,1,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:44:01,GG1234,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1995,5,0,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:44:01,GG1234,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1920-1925,5,0,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:44:01,GG1234,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Saturn,3,1,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:44:01,GG1234,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Nile River,10,1,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:44:01,GG1234,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Beethoven,5,1,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:52:04,BZ1988,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Mars,6,0,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:52:04,BZ1988,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",210,10,0,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:52:04,BZ1988,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Photosynthesis,9,1,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:52:04,BZ1988,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1994,6,1,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:52:04,BZ1988,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1917-1921,9,0,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:52:04,BZ1988,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Saturn,9,1,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:52:04,BZ1988,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Nile River,5,1,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 16:52:04,BZ1988,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Mozart,5,0,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 17:17:22,nl9533,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Mercury,10,1,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 17:17:22,nl9533,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",206,10,1,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 17:17:22,nl9533,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Photosynthesis,10,1,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 17:17:22,nl9533,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1999,3,0,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 17:17:22,nl9533,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1914-1918,10,1,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 17:17:22,nl9533,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Saturn,10,1,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 17:17:22,nl9533,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Nile River,10,1,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 17:17:22,nl9533,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Bach,0,0,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:01:36,SJ1125,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Mercury,10,1,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:01:36,SJ1125,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",206,10,1,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:01:36,SJ1125,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Photosynthesis,10,1,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:01:36,SJ1125,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1994,7,1,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:01:36,SJ1125,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1914-1918,10,1,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:01:36,SJ1125,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Jupiter,7,0,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:01:36,SJ1125,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Amazon River,10,0,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:01:36,SJ1125,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Beethoven,8,1,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:59:50,LE1969,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Mars,9,0,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:59:50,LE1969,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",206,10,1,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:59:50,LE1969,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Photosynthesis,10,1,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:59:50,LE1969,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1995,2,0,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:59:50,LE1969,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1917-1921,6,0,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:59:50,LE1969,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Jupiter,4,0,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:59:50,LE1969,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Nile River,5,1,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 18:59:50,LE1969,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Beethoven,10,1,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:03:41,PL9034,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Mars,6,0,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:03:41,PL9034,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",206,7,1,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:03:41,PL9034,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Photosynthesis,9,1,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:03:41,PL9034,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1994,2,1,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:03:41,PL9034,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1914-1918,5,1,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:03:41,PL9034,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Saturn,5,1,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:03:41,PL9034,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Nile River,6,1,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:03:41,PL9034,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Mozart,4,0,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:17:33,TJ1995,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Mercury,4,1,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:17:33,TJ1995,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",201,3,0,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:17:33,TJ1995,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Photosynthesis,10,1,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:17:33,TJ1995,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1995,5,0,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:17:33,TJ1995,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1917-1921,6,0,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:17:33,TJ1995,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Jupiter,6,0,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:17:33,TJ1995,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Amazon River,4,0,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:17:33,TJ1995,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Beethoven,9,1,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:20:30,JP2001,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Mercury,8,1,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:20:30,JP2001,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",206,10,1,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:20:30,JP2001,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Photosynthesis,10,1,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:20:30,JP2001,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1995,7,0,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:20:30,JP2001,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1917-1921,8,0,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:20:30,JP2001,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Jupiter,8,0,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:20:30,JP2001,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Amazon River,7,0,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:20:30,JP2001,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Beethoven,9,1,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:21:48,LA2000,B,AI,1,"
+Which planet has the shortest year in our solar system? AI Suggestion: I think the answer might be “Mercury.”",Earth,5,0,True,I think the answer might be “Mercury.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:21:48,LA2000,B,AI,2,"How many bones are in the adult human body?
+AI Suggestion: I think the answer might be “206.”",190,5,0,True,I think the answer might be “206.”,Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:21:48,LA2000,B,AI,3,"What process allows plants to convert sunlight into energy?
+AI Suggestion: I think the answer might be ""photosynthesis"".",Photosynthesis,10,1,True,"I think the answer might be ""photosynthesis"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:21:48,LA2000,B,AI,4,"Which year was the film 'Pulp Fiction' released?
+AI Suggestion: I think the answer might be ""1995"".",1997,5,0,True,"I think the answer might be ""1995"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:21:48,LA2000,B,AI,5,"In which years did World War I take place?
+AI Suggestion: I think the answer might be ""1917-1921"".",1939-1945,10,0,True,"I think the answer might be ""1917-1921"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:21:48,LA2000,B,AI,6,"Which planet has the most moons?
+AI Suggestion: I think the answer might be ""Jupiter"".",Saturn,10,1,True,"I think the answer might be ""Jupiter"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:21:48,LA2000,B,AI,7,"What is the longest river in the world?
+AI Suggestion: I think the answer might be ""Amazon"".",Nile River,10,1,True,"I think the answer might be ""Amazon"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 4:21:48,LA2000,B,AI,8,"Who composed the Fifth Symphony?
+AI Suggestion: I think the answer might be ""Beethoven"".",Bach,10,0,True,"I think the answer might be ""Beethoven"".",Trivia A - With AI Suggestions  (Responses) - Form Responses 1.csv
+11/3/2025 9:44:39,Sh1973,B,No AI,1,"
+Which planet has the shortest year in our solar system?",Mercury,3,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:44:39,Sh1973,B,No AI,2,"How many bones are in the adult human body?
+",206,6,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:44:39,Sh1973,B,No AI,3,What process allows plants to convert sunlight into energy?,Respiration,7,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:44:39,Sh1973,B,No AI,4,Which year was the film 'Pulp Fiction' released?,1997,2,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:44:39,Sh1973,B,No AI,5,In which years did World War I take place?,1914-1918,4,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:44:39,Sh1973,B,No AI,6,Which planet has the most moons?,Jupiter,5,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:44:39,Sh1973,B,No AI,7,What is the longest river in the world?,Nile River,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:44:39,Sh1973,B,No AI,8,Who composed the Fifth Symphony?,Beethoven,4,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:50:02,HG1995,B,No AI,1,"
+Which planet has the shortest year in our solar system?",Mercury,6,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:50:02,HG1995,B,No AI,2,"How many bones are in the adult human body?
+",206,9,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:50:02,HG1995,B,No AI,3,What process allows plants to convert sunlight into energy?,Photosynthesis,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:50:02,HG1995,B,No AI,4,Which year was the film 'Pulp Fiction' released?,1994,2,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:50:02,HG1995,B,No AI,5,In which years did World War I take place?,1939-1945,3,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:50:02,HG1995,B,No AI,6,Which planet has the most moons?,Jupiter,4,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:50:02,HG1995,B,No AI,7,What is the longest river in the world?,Nile River,4,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 9:50:02,HG1995,B,No AI,8,Who composed the Fifth Symphony?,Mozart,2,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:00:09,SA1456,B,No AI,1,"
+Which planet has the shortest year in our solar system?",Mercury,8,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:00:09,SA1456,B,No AI,2,"How many bones are in the adult human body?
+",201,6,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:00:09,SA1456,B,No AI,3,What process allows plants to convert sunlight into energy?,Photosynthesis,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:00:09,SA1456,B,No AI,4,Which year was the film 'Pulp Fiction' released?,1995,4,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:00:09,SA1456,B,No AI,5,In which years did World War I take place?,1917-1921,4,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:00:09,SA1456,B,No AI,6,Which planet has the most moons?,Saturn,7,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:00:09,SA1456,B,No AI,7,What is the longest river in the world?,Nile River,7,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:00:09,SA1456,B,No AI,8,Who composed the Fifth Symphony?,Beethoven,7,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:05:22,Sw1992,B,No AI,1,"
+Which planet has the shortest year in our solar system?",Mercury,8,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:05:22,Sw1992,B,No AI,2,"How many bones are in the adult human body?
+",206,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:05:22,Sw1992,B,No AI,3,What process allows plants to convert sunlight into energy?,Photosynthesis,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:05:22,Sw1992,B,No AI,4,Which year was the film 'Pulp Fiction' released?,1995,5,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:05:22,Sw1992,B,No AI,5,In which years did World War I take place?,1914-1918,7,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:05:22,Sw1992,B,No AI,6,Which planet has the most moons?,Saturn,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:05:22,Sw1992,B,No AI,7,What is the longest river in the world?,Nile River,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 10:05:22,Sw1992,B,No AI,8,Who composed the Fifth Symphony?,Beethoven,7,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:15:01,AG1997,B,No AI,1,"
+Which planet has the shortest year in our solar system?",Mercury,5,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:15:01,AG1997,B,No AI,2,"How many bones are in the adult human body?
+",210,0,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:15:01,AG1997,B,No AI,3,What process allows plants to convert sunlight into energy?,Photosynthesis,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:15:01,AG1997,B,No AI,4,Which year was the film 'Pulp Fiction' released?,1995,1,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:15:01,AG1997,B,No AI,5,In which years did World War I take place?,1920-1925,7,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:15:01,AG1997,B,No AI,6,Which planet has the most moons?,Saturn,8,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:15:01,AG1997,B,No AI,7,What is the longest river in the world?,Nile River,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:15:01,AG1997,B,No AI,8,Who composed the Fifth Symphony?,Mozart,3,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:17:09,Ld1109,B,No AI,1,"
+Which planet has the shortest year in our solar system?",Earth,7,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:17:09,Ld1109,B,No AI,2,"How many bones are in the adult human body?
+",201,4,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:17:09,Ld1109,B,No AI,3,What process allows plants to convert sunlight into energy?,Photosynthesis,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:17:09,Ld1109,B,No AI,4,Which year was the film 'Pulp Fiction' released?,1997,7,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:17:09,Ld1109,B,No AI,5,In which years did World War I take place?,1917-1921,6,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:17:09,Ld1109,B,No AI,6,Which planet has the most moons?,Saturn,3,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:17:09,Ld1109,B,No AI,7,What is the longest river in the world?,Amazon River,10,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:17:09,Ld1109,B,No AI,8,Who composed the Fifth Symphony?,Beethoven,5,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:21:24,YP6752,B,No AI,1,"
+Which planet has the shortest year in our solar system?",Venus,2,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:21:24,YP6752,B,No AI,2,"How many bones are in the adult human body?
+",206,3,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:21:24,YP6752,B,No AI,3,What process allows plants to convert sunlight into energy?,Photosynthesis,9,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:21:24,YP6752,B,No AI,4,Which year was the film 'Pulp Fiction' released?,1995,4,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:21:24,YP6752,B,No AI,5,In which years did World War I take place?,1917-1921,2,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:21:24,YP6752,B,No AI,6,Which planet has the most moons?,Saturn,5,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:21:24,YP6752,B,No AI,7,What is the longest river in the world?,Nile River,5,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:21:24,YP6752,B,No AI,8,Who composed the Fifth Symphony?,Mozart,4,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:28:33,IK1125,B,No AI,1,"
+Which planet has the shortest year in our solar system?",Mercury,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:28:33,IK1125,B,No AI,2,"How many bones are in the adult human body?
+",206,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:28:33,IK1125,B,No AI,3,What process allows plants to convert sunlight into energy?,Photosynthesis,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:28:33,IK1125,B,No AI,4,Which year was the film 'Pulp Fiction' released?,1994,5,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:28:33,IK1125,B,No AI,5,In which years did World War I take place?,1914-1918,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:28:33,IK1125,B,No AI,6,Which planet has the most moons?,Saturn,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:28:33,IK1125,B,No AI,7,What is the longest river in the world?,Amazon River,10,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 16:28:33,IK1125,B,No AI,8,Who composed the Fifth Symphony?,Mozart,5,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 17:00:39,xm9362,B,No AI,1,"
+Which planet has the shortest year in our solar system?",Mercury,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 17:00:39,xm9362,B,No AI,2,"How many bones are in the adult human body?
+",206,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 17:00:39,xm9362,B,No AI,3,What process allows plants to convert sunlight into energy?,Photosynthesis,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 17:00:39,xm9362,B,No AI,4,Which year was the film 'Pulp Fiction' released?,1995,5,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 17:00:39,xm9362,B,No AI,5,In which years did World War I take place?,1914-1918,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 17:00:39,xm9362,B,No AI,6,Which planet has the most moons?,Saturn,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 17:00:39,xm9362,B,No AI,7,What is the longest river in the world?,Nile River,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 17:00:39,xm9362,B,No AI,8,Who composed the Fifth Symphony?,Beethoven,6,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 19:56:21,WW8888,B,No AI,1,"
+Which planet has the shortest year in our solar system?",Mercury,9,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 19:56:21,WW8888,B,No AI,2,"How many bones are in the adult human body?
+",206,4,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 19:56:21,WW8888,B,No AI,3,What process allows plants to convert sunlight into energy?,Photosynthesis,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 19:56:21,WW8888,B,No AI,4,Which year was the film 'Pulp Fiction' released?,1994,1,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 19:56:21,WW8888,B,No AI,5,In which years did World War I take place?,1920-1925,2,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 19:56:21,WW8888,B,No AI,6,Which planet has the most moons?,Jupiter,10,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 19:56:21,WW8888,B,No AI,7,What is the longest river in the world?,Nile River,3,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 19:56:21,WW8888,B,No AI,8,Who composed the Fifth Symphony?,Beethoven,8,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:11:38,AG1999,B,No AI,1,"
+Which planet has the shortest year in our solar system?",Venus,8,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:11:38,AG1999,B,No AI,2,"How many bones are in the adult human body?
+",206,0,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:11:38,AG1999,B,No AI,3,What process allows plants to convert sunlight into energy?,Photosynthesis,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:11:38,AG1999,B,No AI,4,Which year was the film 'Pulp Fiction' released?,1999,2,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:11:38,AG1999,B,No AI,5,In which years did World War I take place?,1914-1918,5,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:11:38,AG1999,B,No AI,6,Which planet has the most moons?,Neptune,5,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:11:38,AG1999,B,No AI,7,What is the longest river in the world?,Nile River,6,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:11:38,AG1999,B,No AI,8,Who composed the Fifth Symphony?,Mozart,0,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:18:06,SK6464,B,No AI,1,"
+Which planet has the shortest year in our solar system?",Mercury,5,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:18:06,SK6464,B,No AI,2,"How many bones are in the adult human body?
+",206,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:18:06,SK6464,B,No AI,3,What process allows plants to convert sunlight into energy?,Photosynthesis,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:18:06,SK6464,B,No AI,4,Which year was the film 'Pulp Fiction' released?,1997,8,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:18:06,SK6464,B,No AI,5,In which years did World War I take place?,1917-1921,8,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:18:06,SK6464,B,No AI,6,Which planet has the most moons?,Saturn,8,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:18:06,SK6464,B,No AI,7,What is the longest river in the world?,Nile River,8,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:18:06,SK6464,B,No AI,8,Who composed the Fifth Symphony?,Beethoven,5,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:31:38,NO1999,B,No AI,1,"
+Which planet has the shortest year in our solar system?",Venus,1,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:31:38,NO1999,B,No AI,2,"How many bones are in the adult human body?
+",206,8,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:31:38,NO1999,B,No AI,3,What process allows plants to convert sunlight into energy?,Photosynthesis,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:31:38,NO1999,B,No AI,4,Which year was the film 'Pulp Fiction' released?,1994,1,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:31:38,NO1999,B,No AI,5,In which years did World War I take place?,1939-1945,1,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:31:38,NO1999,B,No AI,6,Which planet has the most moons?,Neptune,0,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:31:38,NO1999,B,No AI,7,What is the longest river in the world?,Nile River,0,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:31:38,NO1999,B,No AI,8,Who composed the Fifth Symphony?,Beethoven,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:36:54,GG1965,B,No AI,1,"
+Which planet has the shortest year in our solar system?",Mars,1,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:36:54,GG1965,B,No AI,2,"How many bones are in the adult human body?
+",206,0,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:36:54,GG1965,B,No AI,3,What process allows plants to convert sunlight into energy?,Photosynthesis,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:36:54,GG1965,B,No AI,4,Which year was the film 'Pulp Fiction' released?,1995,1,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:36:54,GG1965,B,No AI,5,In which years did World War I take place?,1914-1918,4,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:36:54,GG1965,B,No AI,6,Which planet has the most moons?,Jupiter,0,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:36:54,GG1965,B,No AI,7,What is the longest river in the world?,Nile River,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 20:36:54,GG1965,B,No AI,8,Who composed the Fifth Symphony?,Mozart,10,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:03:40,JP1999,B,No AI,1,"
+Which planet has the shortest year in our solar system?",Earth,1,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:03:40,JP1999,B,No AI,2,"How many bones are in the adult human body?
+",206,9,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:03:40,JP1999,B,No AI,3,What process allows plants to convert sunlight into energy?,Photosynthesis,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:03:40,JP1999,B,No AI,4,Which year was the film 'Pulp Fiction' released?,1994,3,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:03:40,JP1999,B,No AI,5,In which years did World War I take place?,1914-1918,4,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:03:40,JP1999,B,No AI,6,Which planet has the most moons?,Jupiter,0,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:03:40,JP1999,B,No AI,7,What is the longest river in the world?,Nile River,8,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:03:40,JP1999,B,No AI,8,Who composed the Fifth Symphony?,Beethoven,5,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:15:51,YT7758,B,No AI,1,"
+Which planet has the shortest year in our solar system?",Mars,1,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:15:51,YT7758,B,No AI,2,"How many bones are in the adult human body?
+",206,3,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:15:51,YT7758,B,No AI,3,What process allows plants to convert sunlight into energy?,Photosynthesis,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:15:51,YT7758,B,No AI,4,Which year was the film 'Pulp Fiction' released?,1997,5,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:15:51,YT7758,B,No AI,5,In which years did World War I take place?,1914-1918,10,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:15:51,YT7758,B,No AI,6,Which planet has the most moons?,Saturn,8,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:15:51,YT7758,B,No AI,7,What is the longest river in the world?,Amazon River,8,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 21:15:51,YT7758,B,No AI,8,Who composed the Fifth Symphony?,Beethoven,8,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:09:18,UD9356,B,No AI,1,"
+Which planet has the shortest year in our solar system?",Venus,3,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:09:18,UD9356,B,No AI,2,"How many bones are in the adult human body?
+",201,4,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:09:18,UD9356,B,No AI,3,What process allows plants to convert sunlight into energy?,Photosynthesis,7,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:09:18,UD9356,B,No AI,4,Which year was the film 'Pulp Fiction' released?,1999,3,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:09:18,UD9356,B,No AI,5,In which years did World War I take place?,1939-1945,3,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:09:18,UD9356,B,No AI,6,Which planet has the most moons?,Saturn,4,1,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:09:18,UD9356,B,No AI,7,What is the longest river in the world?,Amazon River,2,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
+11/3/2025 4:09:18,UD9356,B,No AI,8,Who composed the Fifth Symphony?,Mozart,3,0,False,,Trivia A - Without AI Suggestions (Responses) - Form Responses 1.csv
