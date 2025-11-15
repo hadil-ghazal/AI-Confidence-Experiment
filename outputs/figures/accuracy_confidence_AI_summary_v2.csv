@@ -1,0 +1,10 @@
+ai_condition_detail,confidence_band,mean_accuracy,n
+AI - correct suggestion,High Confidence(8-10),0.8888888888888888,81
+AI - correct suggestion,Low confidence(0-5),0.5128205128205128,39
+AI - correct suggestion,Medium Confidence(6-7),0.8333333333333334,24
+AI - wrong suggestion,High Confidence(8-10),0.4230769230769231,52
+AI - wrong suggestion,Low confidence(0-5),0.26229508196721313,61
+AI - wrong suggestion,Medium Confidence(6-7),0.1935483870967742,31
+No AI,High Confidence(8-10),0.7676767676767676,99
+No AI,Low confidence(0-5),0.3602941176470588,136
+No AI,Medium Confidence(6-7),0.4222222222222222,45
