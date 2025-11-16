@@ -114,15 +114,30 @@ main: initial work with all final scripts, data and figures
 analysis-v2: created for all rework and code enhancements
 ai-enhanced: PR where ChatGPT assisted with formatting and documentation. AI usage remains <20% of the scripts and the full chat history was linked for auditing
 
+===================================================================================================================
 #9.#AI Usage Disclosure
 Portions of this project used ChatGPT (GPT-5.1, Nov 2025) for formatting and documentation improvements on a separate ai enhanced branch. All experimental design, statistical reasoning, data cleaning logic, and analysis is authored solely by Hadil Ghazal Nov 2025. AI contributions were <20% and did not alter analytical logic
 
+====================================================================================================================
 
-#10. Reporoducing the results and how to run:
-1. run the cleaning using python clean_and_merge_v2.py
-2. Run the analysis and visuals using python analysis_confidence_AI_relationship_v2.py
-3. audit the power analysis using python power_analysis.py
+#10. Reproducing the results and how to run:
+Step 1: Data cleaning and merging: run the cleaning using "python clean_and_merge_v2.py"
+	- this will create the cleaned responses file
+Step 2: Exploratory Analysis: Run the analysis and visuals using "python analysis_confidence_AI_relationship_v2.py"
+	- this will create the detailed visualization and data 		                    	                                       - outputs/figures/accuracy_confidence_AI_v2_detailed_with_pct.csv
+         - outputs/figures/accuracy_vs_confidence_dualaxis_v2_pct.png
+Step 3: Inferential Stats tests: tun "python scripts/statistical_tests_v2.py", saves
+		- outputs/stats/accuracy_contingency_table.csv
+		- outputs/stats/condition_summary_accuracy_confidence.csv
+		- outputs/stats/confidence_pairwise_mannwhitney.csv
+Step 4: Power analysis: run "python power_analysis.py"
 
+* Notes:
+  - All scripts expect the default repository structure (no path editing needed)
+  - All outputs overwrite previous files safely.
+  - No notebook environment is required. everything runs via .py scripts.
+
+======================================================================================================================
 
 #11. Final Interpretations and takeaways
 Correct AI improved accuracy and increased confidence proportionally.
