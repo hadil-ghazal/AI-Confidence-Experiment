@@ -1,0 +1,4 @@
+group_1,group_2,mannwhitney_U,p_raw,p_bonferroni,significant_at_0.05
+AI - correct suggestion,AI - wrong suggestion,12568.5,0.0015537378882069493,0.004661213664620848,True
+AI - correct suggestion,No AI,25563.5,4.512511899258551e-06,1.3537535697775655e-05,True
+AI - wrong suggestion,No AI,21889.5,0.14369611032357088,0.43108833097071264,False
